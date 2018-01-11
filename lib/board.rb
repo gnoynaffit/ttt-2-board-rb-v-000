@@ -1,2 +1,5 @@
 # Define the variable board below.
-row = [" ", " ", " "]
+10.times do
+  x = 10
+  p x
+end
